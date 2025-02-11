@@ -1,18 +1,11 @@
-
-import Rotas from "./routes"
-
+import Home from './pages/Home';
 
 function App() {
- 
-
-  return (
-    <>
-    <Rotas/>
-    </>
-  )
-
-
+    return (
+        <>
+            <Home />
+        </>
+    );
 }
-   
 
-export default App
+export default App;
