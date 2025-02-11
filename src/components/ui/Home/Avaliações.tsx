@@ -1,7 +1,6 @@
 import { Card } from 'flowbite-react';
 import { Rating } from 'flowbite-react';
 import { useState, useEffect } from 'react';
-import Footer from './Footer';
 
 const Avaliações = () => {
     interface Avaliacoes {
